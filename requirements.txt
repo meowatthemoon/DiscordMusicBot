@@ -1,0 +1,6 @@
+discord.py
+discord-ext-bot
+ffmpeg
+pyaml
+requests
+wavelink  
